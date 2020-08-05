@@ -17,6 +17,13 @@ class _SignInPageState extends State<SignInPage> {
   bool isSigningIn = false;
 
   @override
+  void initState() {
+    super.initState();
+    AppSystemManager.systemBarColor(Colors.transparent, Colors.white);
+  }
+
+
+  @override
   Widget build(BuildContext context) {
     SizeConfig().init(context);
 
