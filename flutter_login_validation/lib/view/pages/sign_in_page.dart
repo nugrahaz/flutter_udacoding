@@ -282,7 +282,12 @@ class _SignInPageState extends State<SignInPage> {
                           ),
                           CustomButton(
                             function: () {
-                              print("pagenya sengaja dihapus dihapus");
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => SignUpPage(),
+                                ),
+                              );
                             },
                             color: Colors.white,
                             title: "Tidak memiliki akun?",

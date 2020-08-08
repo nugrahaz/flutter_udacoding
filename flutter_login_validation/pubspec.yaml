@@ -16,6 +16,8 @@ dependencies:
   auto_size_text: ^2.1.0
   flushbar: ^1.10.4
   eva_icons_flutter: ^2.0.1
+  email_validator: ^1.0.5
+
 
 
 dev_dependencies:
