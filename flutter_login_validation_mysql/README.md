@@ -1,16 +1,5 @@
 # flutter_login_validation_mysql
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/69227102/90318672-538dab00-df5c-11ea-9c9b-1d10e78b4b4a.jpg" width="210" height="350">        <img src="https://user-images.githubusercontent.com/69227102/90318689-6bfdc580-df5c-11ea-878a-775d4119eb92.jpg" width="210" height="350">        <img src="https://user-images.githubusercontent.com/69227102/90318730-a49d9f00-df5c-11ea-90b3-20bf83446acc.jpg" width="210" height="350">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Notes: untuk databasenya saya hosting (sekalian belajar) ke 000webhost jadi cukup menjalankan dan menggunakannya
