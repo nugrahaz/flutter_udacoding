@@ -1,16 +1,11 @@
 # flutter_kamus
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/69227102/90318416-859e0d80-df5a-11ea-8a46-0834c8e83454.jpg" width="210" height="350">   <img src="https://user-images.githubusercontent.com/69227102/90318455-c4cc5e80-df5a-11ea-963c-b9f89299806c.jpg" width="210" height="350">   
 
-## Getting Started
+Cara instalasi:
+1. Clone project
+2. Pindahkan folder flutter-server ke htdocs
+3. Import database db_kamus.sql (nama database db_kamus)
+4. ganti host di coding dengan ip perangkat (yang terhubung dalam satu jaringan)
+5. Run project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
