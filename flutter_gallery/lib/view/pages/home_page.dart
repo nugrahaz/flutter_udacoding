@@ -34,6 +34,7 @@ class _HomePageState extends State<HomePage> {
               Flexible(
                   flex: 1,
                   child: Container(
+                    color: Colors.white,
                       child: Center(
                         child: Text(
                           "Gallery",
