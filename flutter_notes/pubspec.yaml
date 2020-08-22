@@ -22,8 +22,13 @@ dependencies:
   shared_preferences: ^0.5.10
 
 dev_dependencies:
+  flutter_native_splash: ^0.1.9
   flutter_test:
     sdk: flutter
+
+flutter_native_splash:
+  image: assets/images/background/splash_icons.png
+  color: "006bff"
 
 flutter:
   uses-material-design: true
